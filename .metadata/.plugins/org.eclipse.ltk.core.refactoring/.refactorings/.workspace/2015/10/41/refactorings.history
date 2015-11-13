@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 12 resources" deleteContents="true" description="Delete 12 resources" element1="/com-crashlytics-sdk-android_answers_2" element10="/SpinnerWheelLib" element11="/StartActivity" element12="/ViewPagerIndicatorLibrary" element2="/com-crashlytics-sdk-android_beta_2" element3="/com-crashlytics-sdk-android_crashlytics_2" element4="/facebook" element5="/google-play-services_lib" element6="/io-fabric-sdk-android_fabric_2" element7="/library" element8="/ParallaxScroll" element9="/PullToRefreshLibrary" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="12" stamp="1444188262415"/>
+</session>

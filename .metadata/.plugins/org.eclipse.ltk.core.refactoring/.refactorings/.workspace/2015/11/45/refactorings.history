@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete 3 resources" deleteContents="true" description="Delete 3 resources" element1="/com-crashlytics-sdk-android_answers_2" element2="/com-crashlytics-sdk-android_beta_2" element3="/com-crashlytics-sdk-android_crashlytics_2" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="3" stamp="1446615533680"/>&#x0A;<refactoring comment="Delete resource &apos;io-fabric-sdk-android_fabric_2&apos;" deleteContents="true" description="Delete resource &apos;io-fabric-sdk-android_fabric_2&apos;" element1="/io-fabric-sdk-android_fabric_2" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1446615549538"/>
+</session>

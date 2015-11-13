@@ -1,0 +1,10 @@
+package snippet;
+
+public class Snippet {
+	public static void main(String[] args) {
+		/Users/s349354/AndroidStudioProjects/UploadImageTest/app/src/main/java/com/sinyi/test/uploadimagetest/BitmapHelper.java
+		/Users/s349354/AndroidStudioProjects/UploadImageTest/app/src/main/java/com/sinyi/test/uploadimagetest/MainActivity.java
+		/Users/s349354/AndroidStudioProjects/UploadImageTest/app/src/main/java/com/sinyi/test/uploadimagetest/UploadFileService.java
+	}
+}
+

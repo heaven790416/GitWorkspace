@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.parse.R"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="com.google.android.gms.analytics.Logger"/>
+<fullyQualifiedTypeName name="android.R"/>
+<fullyQualifiedTypeName name="com.thinkermobile.sinyi.R"/>
+<fullyQualifiedTypeName name="com.google.android.gms.analytics.GoogleAnalytics"/>
+<fullyQualifiedTypeName name="com.google.android.gms.analytics.Tracker"/>
+<fullyQualifiedTypeName name="com.google.android.gms.analytics.HitBuilders"/>
+<fullyQualifiedTypeName name="com.yowoo.newbuyhouse.NewBuyHouseApplication"/>
+<fullyQualifiedTypeName name="com.google.android.gms.analytics.HitBuilders.ScreenViewBuilder"/>
+<fullyQualifiedTypeName name="android.content.IntentFilter"/>
+<fullyQualifiedTypeName name="com.sinyi.test.uploadimagetest.UploadFileService"/>
+</qualifiedTypeNameHistroy>
